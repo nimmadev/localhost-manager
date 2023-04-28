@@ -86,3 +86,7 @@ docker-compose up -d
 
 
 The Localhost Manager will now start with your new Localhost included. You can access your Localhost by navigating to `http://localhost:<port number of your Localhost>/` in a web browser.
+
+
+# credit
+ - logo has been designed using images from Flaticon.com
