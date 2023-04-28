@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  localhost_manager:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "9991:9991"
+    volumes:
+      - .:/app

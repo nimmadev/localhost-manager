@@ -1,0 +1,16 @@
+SITES:
+  - NAME : Sonaar
+    port : http://localhost:8989/
+    cover : sonarr.png
+  - NAME : Radaar
+    port : http://localhost:7878/
+    cover : radaar.png
+  - NAME : Prowlaar
+    port : http://localhost:9696/
+    cover : prowlaar.png
+  - NAME : Jelly
+    port : http://localhost:8096/
+    cover : jelly.png
+  - NAME : Stash
+    port : http://localhost:9999/
+    cover : stash.png

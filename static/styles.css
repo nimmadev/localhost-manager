@@ -1,0 +1,55 @@
+body {
+    width: 100vw;
+    height: 120vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #777;
+}
+
+.background {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    
+    
+}
+
+.host img{
+    width: clamp(20px, 160px, 340px);
+    height: auto;
+    margin: 20px;
+
+}
+
+.host p{
+text-align: center;
+font-size: clamp(1em, 2em, 3em);
+margin: 3px;
+
+}
+
+.host {
+    width: clamp(60px, 200px, 380px);
+    border-radius: 6px;
+    background-color: #5b2c6f22;
+    box-shadow: 2px 2px 4px #a6c1ee;
+    
+}
+
+.hosts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 80vw;
+    height: 80vh;
+    margin: 0 20vh 20vh 20vh;
+    padding-top: 10vh;
+    gap: 3vw;
+    
+}
