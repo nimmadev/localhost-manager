@@ -3,9 +3,9 @@
 ![sample image](static/manager.png)
 Localhost Manager is a collection of services that can be used to manage media files on your local machine. The following services are included:
 
-- **Sonaar**: A TV show management tool.
-- **Radaar**: A movie management tool.
-- **Prowlaar**: A music management tool.
+- **Sonarr**: A TV show management tool.
+- **Radarr**: A movie management tool.
+- **Prowlarr**: A music management tool.
 - **Jelly**: A media server that streams movies, TV shows and music to clients.
 - **Stash**: A password manager tool.
 
@@ -43,9 +43,9 @@ This will start all the services in the background.
 
 4. To access each service, open a web browser and navigate to the URLs listed below:
 
-- Sonaar: http://localhost:8989/
-- Radaar: http://localhost:7878/
-- Prowlaar: http://localhost:9696/
+- Sonarr: http://localhost:8989/
+- Radarr: http://localhost:7878/
+- Prowlarr: http://localhost:9696/
 - Jelly: http://localhost:8096/
 - Stash: http://localhost:9999/
 
