@@ -14,3 +14,6 @@ SITES:
   - NAME : Stash
     port : http://localhost:9999/
     cover : stash.png
+  - NAME : Reddit
+    port : https://www.reddit.com/
+    cover : reddit.png
