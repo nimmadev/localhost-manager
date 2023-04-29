@@ -5,9 +5,9 @@ Localhost Manager is a collection of services that can be used to manage media f
 
 - **Sonarr**: A TV show management tool.
 - **Radarr**: A movie management tool.
-- **Prowlarr**: A music management tool.
-- **Jelly**: A media server that streams movies, TV shows and music to clients.
-- **Stash**: A password manager tool.
+- **Prowlarr**: A torrent management tool.
+- **Jellyfin**: A media server that streams movies, TV shows and music to clients.
+- **Stash**: A porn manager tool.
 
 
 ## Installation
@@ -90,3 +90,9 @@ The Localhost Manager will now start with your new Localhost included. You can a
 
 # credit
  - logo has been designed using images from Flaticon.com
+ - Sonarr: https://github.com/Sonarr/Sonarr
+ - Radarr: https://github.com/Radarr/Radarr
+ - Prowlarr: https://github.com/Prowlarr/Prowlarr
+ - Jellyfin: https://jellyfin.org/
+ - Stash: https://github.com/stashapp/stash
+ 
